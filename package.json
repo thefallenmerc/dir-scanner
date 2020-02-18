@@ -1,0 +1,12 @@
+{
+  "name": "@chahar/dir-scanner",
+  "version": "1.0.0",
+  "description": "Scans any dir and returns an object!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Singh Chahar",
+  "license": "ISC",
+  "dependencies": {}
+}
