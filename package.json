@@ -1,5 +1,5 @@
 {
-  "name": "@chaharshubhamsingh/dir-scanner",
+  "name": "@chaharshubhamsingh/dirscanner",
   "version": "1.0.1",
   "description": "Scans any dir and returns an object!",
   "main": "index.js",
